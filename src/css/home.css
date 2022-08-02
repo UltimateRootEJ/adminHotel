@@ -1,0 +1,57 @@
+.mainHome{
+    display: flex;
+    width: 100%;
+}
+
+.leftNav{
+    width: 300px;
+    height: 80vh;
+    margin-top: 18vh;
+box-shadow: 4px 5px 5px 4px rgb(2, 2, 2);
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: rgb(74, 108, 138);
+
+
+
+}
+.left{
+    width: 300px;
+  
+}
+
+.right{width:1000px;
+    margin-top: 18vh;
+    margin-left: 5vw;
+    background-color: rgb(74, 108, 138);
+    border-radius: 25px;
+
+}
+
+
+
+.edit{
+    /* display: block; */
+    width: 300px;
+}
+label{
+font-size: 20px;
+}
+
+h2{
+    cursor: pointer;
+}
+
+select{
+    margin-left: 3px;
+}
+
+
+
+
+.addDiv{
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    z-index: 18;
+}

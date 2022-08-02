@@ -1,0 +1,85 @@
+.card
+{
+    width: 500px;
+    border: 2px solid rgb(58, 58, 114);
+    border-radius: 25px;
+    box-shadow: 4px 4px 5px 2px gray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    background-color: rgb(13, 37, 58);
+}
+
+label{
+    margin-left: 10%;
+    color: white;
+}
+
+.selectDiv{
+    display: flex;
+    border-radius: 25px;
+    height: 45px;
+    width: 400px;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    background-color: white;
+
+}
+.headerSearchItem{
+    display: flex;
+    border-radius: 25px;
+    height: 45px;
+    width: 400px;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    /* background-color: white; */
+}
+
+.lab{
+    color: black;
+    margin-left: 5px;
+    margin-top: 2%;
+}
+
+select{
+border: none;
+margin-left: 34%;
+width: 90px;
+}
+
+.hotelDesc{
+    width: 400px;
+    background-color: white;
+    margin-left: 10%;
+    border-radius: 25px;
+    margin-bottom: 2%;
+}
+
+.hotelLabel{
+    color: black;
+}
+
+
+.lab2{
+    color: black;
+    margin-left: 6px;
+    /* margin-top: 2%; */
+   
+    
+}
+
+.imageInput{
+    border: none;
+margin-left: 35%;
+margin-top: 2%;
+
+}
+
+span{
+    color: black;
+}
+
+.h1AddHotels{
+    margin-left: 30%;
+}
+

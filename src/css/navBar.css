@@ -1,0 +1,39 @@
+.navDiv{
+    display: flex;
+    margin-top: 0px;
+    width: 100%;
+    height: 8vh;
+    background-color: rgb(148, 161, 144);
+}
+.one{
+    display: flex;
+    margin-right: 2%;
+    width: 80%;
+}
+
+.two{
+    float: right;
+}
+.hotels{
+    
+    float: left;
+    margin-right: 2%;
+    margin-left: 0;
+}
+
+.Add{
+    margin-right: 2%;
+}
+
+h1 :hover{
+    color: blue;
+}
+h1{
+    cursor: pointer;
+    color:white;
+}
+
+
+
+
+/*toels,Add,update,logOutNav*/

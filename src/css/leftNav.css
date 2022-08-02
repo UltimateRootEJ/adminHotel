@@ -1,0 +1,33 @@
+.leftNav{
+    width: 300px;
+    height: 80vh;
+    margin-top: 18vh;
+box-shadow: 4px 5px 5px 4px rgb(2, 2, 2);
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: rgb(63, 97, 128);
+
+
+}
+
+
+
+.edit{
+    width: 300px;
+}
+label{
+font-size: 18px;
+}
+
+select{
+    margin-left: 3px;
+}
+
+.signOut{
+    margin-top: 15vh;
+    margin-bottom: 0%;
+}
+
+
+
+

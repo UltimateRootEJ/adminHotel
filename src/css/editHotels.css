@@ -1,0 +1,120 @@
+.manageHotels
+{
+    width:100%;
+    height:50px ;
+    padding-top: 12px;
+    background-color: rgb(13, 37, 58);
+    color: aliceblue;
+}
+.editCad
+{
+    width: 73%;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    display: flex;
+    border-radius:15px;
+    background: #333537;
+    background-color: rgb(16, 42, 71);
+    color: aliceblue;
+    box-shadow: 4px 4px 5px 2px black;
+
+}
+.cardImageEdit
+{
+    width: 350px;
+    height: 160px;
+    overflow: hidden;
+    margin: 20px;
+    border-radius: 10px;
+}
+.hotel-Edit
+{
+    width: 250px;
+    height: 160px;
+}
+.detailsE
+{
+    margin-left: 0%;
+    width: 150px;
+
+}
+.hotel-name
+{
+    margin-top: 30px;
+font-size: 20px;
+}
+.options
+{
+    margin-left: 70px;
+    margin-top: 25px; 
+    width: 130px;
+}
+.edit-btn
+{
+    width: 120px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: none;
+    color: black;
+    color: white;
+    background:blue;
+}
+.remove-btn
+{
+    width: 120px;
+    height: 30px;
+    border: none;
+    color: black;
+    background: red;
+    margin-left: 10px;
+}
+.edit
+{
+    width:25%;
+    height: 740px;
+    border-radius: 20px;
+    padding: 4%;
+    background-color: rgb(13, 37, 58);
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 110px;
+    left: 50.5%;
+    display: none;
+    transition: 0.3s;
+    box-shadow: 0px 4px 20px 0px black;
+}
+.edit input{
+    width: 80%;
+    height: 50px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 20px;
+}
+.close
+{
+    margin-left: 96%;
+    width: 20px;
+    color: white;
+    cursor:pointer;
+}
+.btn-update
+{
+    background:#F9C200;
+    color: black;
+    font-weight: 550;
+    width: 180px;
+    height: 40px;
+   
+}
+
+.descHotel{
+    width: 250px;
+    background-color: bisque;
+    color: black;
+}
+
